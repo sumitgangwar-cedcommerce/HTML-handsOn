@@ -1,0 +1,68 @@
+#one{
+    text-align: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    width: 90%;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+}
+#two{
+    width: 100%;
+    padding-left: 20px;
+}
+body{
+    font-size: 10px;
+}
+#b{
+    background-color: gray; width: 90%;margin-left: 20px;height: 200px; display: flex;
+}
+#c{
+    background-color: gray;width: 30%;padding: 20px;
+}
+#d{
+    background-color: gray; width: 20%;margin-left: 55px;height: 100px; margin-top: 20px;float: left;
+}
+#e{
+    background-color: gray; width: 20%;margin-left: 120px;height: 100px; margin-top: 20px;float: left;
+}
+#f{
+    background-color: gray; width: 20%;margin-left: 120px;height: 100px; margin-top: 20px;float: left;
+}
+#g{
+    width: 20%;margin-left: 55px;height: 100px; margin-top: 20px;float: left;text-align: center;
+}
+#h{
+    text-decoration: underline;color: black;
+}
+#i{
+    width: 20%;margin-left: 120px;height: 100px; margin-top: 20px;float: left;text-align: center;
+}
+#j{
+    text-decoration: underline;color: black;
+}
+#k{
+    width: 20%;margin-left: 120px;height: 100px; margin-top: 20px;float: left;text-align: center;
+}
+#l{
+    text-decoration: underline;color: black;
+}
+#m{
+    text-align: center;width: 88%;display: block;background-color:gray;margin-left: 20px;font-size: large;padding: 15px;
+}
+#n{
+    width: 30%;margin-left: 10px;border: 1px;border-color: yellow;
+}
+#o{
+    width: 15%;background-color: blue;color: aliceblue;padding: 0px;text-align: left;border: none;
+}
+#p{
+    margin-left: 20px;margin-right: 70px;
+}
+#q{
+    text-align: left;float: left;
+}
+#r{
+    float: right;
+}
