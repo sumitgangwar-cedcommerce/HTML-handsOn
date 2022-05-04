@@ -1,0 +1,51 @@
+#divta{
+    justify-content: center;
+    margin-left: 25%;
+}
+th{
+    background-color: black;
+    color: white;
+}
+#tab{
+    border-collapse: collapse;
+}
+.col{
+    background-color: rgb(235, 235, 235);
+}
+.ncol{
+    background-color: white;
+}
+td{
+    padding: 1vh;
+    padding-right: 8vh; 
+}
+tr , th , td{
+    border: 1px solid;
+    border-color: rgb(235, 235, 235);
+}
+tr:hover{
+    background-color: #ddd;
+}
+#second{
+    display: flex;
+    margin-left: 12vh;
+}
+#head{
+    text-align: center;
+}
+h5{
+    color: rgb(163, 163, 163);
+}
+#form{
+    margin-left: 30%;
+}
+#msg{
+    width: 98%;
+}
+#btn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 1vh;
+    margin-left:80% ;
+}
